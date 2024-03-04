@@ -46,6 +46,7 @@ body {
     object-fit: fill;
     background: cover;
     margin: 0 0.5rem;
+    border-radius: 50%;
 }
 .logo h1 {
     color: var(--logo);

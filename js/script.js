@@ -21,19 +21,17 @@ var colors = [
     "rgb(255,93,10)",
 ];
 var task = [
-    "Core PHP Developer",
-    "JavaScript Developer",
-    "Back-End Developer",
-    "Professional Website Developer",
-    "Nodejs & Express Developer",
-    "Python Developer",
-    "Programmer",
+    "Video Creator",
+    "Content Creator",
+    "Music And Song Creator",
+    "DJ Mixer",
+    "Soud Mixer",
+    "DJ Maker"
 ];
 var img = [
-    "ghs2.png",
-    "ghs3.png",
-    "ghs4.png",
-    "ghs5.png"
+    "bishal_1.png",
+    "bishal_2.png",
+    "bishal_3.png",
 ];
 setInterval(() => {
     var randomIndex = Math.floor(Math.random() * colors.length);
